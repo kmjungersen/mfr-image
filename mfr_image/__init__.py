@@ -7,7 +7,11 @@ from mfr_image.render import render_html
 __version__ = '0.1.0'
 
 EXTENSIONS = [
-    # TODO: finish this list
+    '.jpeg',
+    '.jpg',
+    '.png',
+    '.bmp',
+    '.gif',
 ]
 
 
